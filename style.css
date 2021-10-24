@@ -41,6 +41,9 @@ a:hover{
 }
 
 /*--- Navbar--- */
+.navbar-dark .navbar-nav .nav-link {
+    color: white
+}
 .nav-link{
     color: black ;
     font-family: "Poppins";

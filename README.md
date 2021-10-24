@@ -1,2 +1,2 @@
 # Arlo
-https://trusting-dijkstra-abff46.netlify.app
+https://admiring-blackwell-c531bb.netlify.app

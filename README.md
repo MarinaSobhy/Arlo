@@ -1,2 +1,2 @@
 # Arlo
-https://admiring-blackwell-c531bb.netlify.app
+https://marinasobhy.github.io/Arlo/
